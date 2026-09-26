@@ -9,3 +9,13 @@ Japonca öğrenirken ilk ezberlediğim temel sesli harfler:
 * **う (u):** "Uçak" kelimesindeki u gibi okunur.
 * **え (e):** "Elma" kelimesindeki e gibi okunur.
 * **お (o):** "Okul" kelimesindeki o gibi okunur.
+
+
+
+
+## 📝 K Sütunu Sesleri
+* **か (ka):** "Kalem" kelimesindeki ka gibi okunur.
+* **き (ki):** "Kitap" kelimesindeki ki gibi okunur.
+* **く (ku):** "Kutu" kelimesindeki ku gibi okunur.
+* **け (ke):** "Kedi" kelimesindeki ke gibi okunur.
+* **こ (ko):** "Konya" kelimesindeki ko gibi okunur.
