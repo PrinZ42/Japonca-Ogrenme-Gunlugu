@@ -15,3 +15,21 @@ Bu dosyada, hedefim olan 100 temel JLPT N5 Kanjisini her gün 5'er karakter ekle
 ---
 *Hedef: 100 Kanji | Mevcut: 5 Kanji*
 
+
+
+
+
+
+## 📅 2. Gün: Doğa Elementleri ve Temel Yönler (5 Kanji)
+
+| Kanji | Okunuşu (Onyomi / Kunyomi) | Türkçe Anlamı | Örnek Kelime / Kullanım |
+| :---: | :--- | :--- | :--- |
+| **山** | san / yama | Dağ | 富士山 (Fujisan) - Fuji Dağı |
+| **川** | sen / kawa | Nehir / Akarsu | 小川 (ogawa) - Dere / Küçük nehir |
+| **水** | sui / mizu | Su | 水曜日 (Suiyoubi) - Çarşamba |
+| **火** | ka / hi | Ateş | 火曜日 (Kayoubi) - Salı |
+| **上** | jou / ue | Üst / Yukarı | 上着 (uwagi) - Ceket / Üst kıyafet |
+
+---
+*Hedef: 100 Kanji | Mevcut: 10 Kanji*
+
