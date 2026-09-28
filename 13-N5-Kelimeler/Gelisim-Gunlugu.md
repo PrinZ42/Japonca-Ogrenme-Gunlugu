@@ -84,3 +84,45 @@ Bu dosyada, hedefim olan 800-1000 kelimelik JLPT N5 kelime haznesini her gün 30
 *Hedef: ~1000 Kelime | Mevcut: 61 Kelime*
 
 
+
+
+
+## 📅 3. Gün: Aile Bireyleri, İnsanlar ve Meslekler (29 Kelime)
+
+| Japonca (Hiragana) | Okunuşu (Romaji) | Türkçe Anlamı |
+| :--- | :--- | :--- |
+| はは | haha | anne |
+| ちち | chichi | baba |
+| りょうしん | ryoushin | ebeveynler |
+| おとうと | otouto | erkek kardeş |
+| いもうと | imouto | kız kardeş |
+| あに | ani | abi |
+| あね | ane | abla |
+| むすこ | musuko | erkek çocuk |
+| むすme | musume | kız çocuk |
+| こども | kodomo | çocuk |
+| おじ | oji | amca/dayı |
+| おば | oba | hala/teyze |
+| いとこ | itoko | kuzen |
+| おっと | otto | koca |
+| つま | tsuma | eş (kadın) |
+| かぞく | kazoku | aile |
+| まご | mago | torun |
+| あかちゃん | akachan | bebek |
+| ともだち | tomodachi | arkadaş |
+| しんゆう | shinyuu | yakın arkadaş |
+| ひと | hito | insan |
+| おとこのひと | otokonohito | erkek |
+| おんなのひと | onnanohito | kadın |
+| おとこのこ | otokonoko | erkek çocuk |
+| おんなのこ | onnanoko | kız çocuk |
+| せんせい | sensei | öğretmen |
+| がくせい | gakusei | öğrenci |
+| いしゃ | isha | doktor |
+| かんごし | kangoshi | hemşire |
+
+---
+*Hedef: ~1000 Kelime | Mevcut: 90 Kelime*
+
+
+
