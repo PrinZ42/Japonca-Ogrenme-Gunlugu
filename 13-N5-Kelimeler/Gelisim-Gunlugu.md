@@ -99,7 +99,7 @@ Bu dosyada, hedefim olan 800-1000 kelimelik JLPT N5 kelime haznesini her gün 30
 | あに | ani | abi |
 | あね | ane | abla |
 | むすこ | musuko | erkek çocuk |
-| むすme | musume | kız çocuk |
+| むすめ | musume | kız çocuk |
 | こども | kodomo | çocuk |
 | おじ | oji | amca/dayı |
 | おば | oba | hala/teyze |
