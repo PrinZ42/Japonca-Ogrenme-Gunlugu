@@ -1,19 +1,27 @@
-# 🗺️ JLPT N5 Kanji Haznesi Gelişim Günlüğü
+# 🎌 JLPT N5 Kanji Gelişim Günlüğü
 
-Bu dosyada, hedefim olan 100 temel JLPT N5 Kanjisini her gün 5'er karakter ekleyerek düzenli commit'lerle inşa edeceğim.
-
-## 📅 1. Gün: Temel Karakterler (5 Kanji)
-
-| Kanji | Okunuşu (Onyomi / Kunyomi) | Türkçe Anlamı | Örnek Kelime / Kullanım |
-| :---: | :--- | :--- | :--- |
-| **一** | ichi / hito(tsu) | Bir | 一つ (hitotsu) - Bir adet |
-| **二** | ni / futa(tsu) | İki | 二つ (futatsu) - İki adet |
-| **三** | san / mit(tsu) | Üç | 三つ (mitatsu) - Üç adet |
-| **日** | nichi, jitsu / hi, bi | Gün, Güneş | 日本 (Nihon) - Japonya |
-| **本** | hon / moto | Kitap, Köken | 日本語 (Nihongo) - Japonca |
+Bu dosyada, N5 seviyesi için kritik öneme sahip 100 temel Kanji karakterini her gün 5'er adet ekleyerek sistematik bir şekilde öğreneceğim.
 
 ---
+
+## 📅 1. Gün: Temel Sayı Kanjileri (5 Kanji)
+
+Master Excel veritabanına uyumlu, N5 seviyesi ilk 5 sayı Kanjisi ve okunuş matrisi:
+
+| Kanji | Okunuşu (Onyomi / Kunyomi) | Türkçe Anlamı | Örnek Kullanım ve Kelime |
+| :---: | :--- | :--- | :--- |
+| **一** | ichi / hito(tsu) | Bir | 一人 (hitori) - Bir kişi |
+| **二** | ni / futa(tsu) | İki | 二日 (futsuka) - Ayın ikinci günü |
+| **三** | san / mit(tsu) | Üç | 三月 (sangatsu) - Mart (3. ay) |
+| **四** | shi / yon | Dört | 四季 (shiki) - Dört mevsim |
+| **五** | go / itsu(tsu) | Beş | 五年 (gonen) - Beş yıl |
+
+
 *Hedef: 100 Kanji | Mevcut: 5 Kanji*
+
+---
+
+
 
 
 
@@ -30,6 +38,7 @@ Bu dosyada, hedefim olan 100 temel JLPT N5 Kanjisini her gün 5'er karakter ekle
 | **火** | ka / hi | Ateş | 火曜日 (Kayoubi) - Salı |
 | **上** | jou / ue | Üst / Yukarı | 上着 (uwagi) - Ceket / Üst kıyafet |
 
----
+
 *Hedef: 100 Kanji | Mevcut: 10 Kanji*
 
+---
