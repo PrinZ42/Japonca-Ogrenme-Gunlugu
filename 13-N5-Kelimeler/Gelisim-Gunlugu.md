@@ -39,10 +39,10 @@ Bu dosyada, hedefim olan 800-1000 kelimelik JLPT N5 kelime haznesini her gün 30
 | に | ni | iki |
 | さん | san | üç |
 
----
+
 *Hedef: ~1000 Kelime | Mevcut: 30 Kelime*
 
-
+---
 
 
 
@@ -82,10 +82,10 @@ Bu dosyada, hedefim olan 800-1000 kelimelik JLPT N5 kelime haznesini her gün 30
 | しゅう | shuu | hafta |
 | ほん | hon | kitap |
 
----
+
 *Hedef: ~1000 Kelime | Mevcut: 60 Kelime*
 
-
+---
 
 
 
@@ -125,10 +125,10 @@ Bu dosyada, hedefim olan 800-1000 kelimelik JLPT N5 kelime haznesini her gün 30
 | みち | michi | yol |
 | へや | heya | oda |
 
----
+
 *Hedef: ~1000 Kelime | Mevcut: 90 Kelime*
 
-
+---
 
 
 
@@ -167,7 +167,7 @@ Bu dosyada, hedefim olan 800-1000 kelimelik JLPT N5 kelime haznesini her gün 30
 | おきる | okiru | uyanmak |
 | ねる | neru | uyumak |
 
----
+
 *Hedef: 1000 Kelime | Mevcut: 120 Kelime*
 
 ---
