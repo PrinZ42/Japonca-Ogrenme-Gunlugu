@@ -72,3 +72,21 @@ Japoncada Kanjilerin iki farklı temel okunuş biçimi vardır. Bu mantığı ç
 *Hedef: 100 Kanji | Mevcut: 20 Kanji*
 
 ---
+
+
+
+
+## 📅 5. Gün: Yönler, Doğa ve Temel İnsan Kanjileri (5 Kanji)
+
+| Kanji | Onyomi Okunuşu | Kunyomi Okunuşu | Türkçe Anlamı | Örnek Cümle / Kullanım |
+| :---: | :--- | :--- | :--- | :--- |
+| **下** | ka / ge | shita / shita(gu) | Alt / Aşağı | 地下鉄 (chikatetsu) - Metro (Yer altı treni) |
+| **火** | ka | hi / bi | Ateş | 火曜日 (Kayoubi) - Salı (Ateş günü) |
+| **木** | moku / boku | ki / ko | Ağaç | 木曜日 (Mokuyoubi) - Perşembe (Ağaç günü) |
+| **金** | kin / kon | kane / kana | Altın / Para | お金 (okane) - Para / Zenginlik |
+| **土** | do / to | tsuchi | Toprak | 土曜日 (Doyoubi) - Cumartesi (Toprak günü) |
+
+
+*Master Excel İndeksi | Hedef: 100 Kanji | Mevcut: 25 Kanji*
+
+---
