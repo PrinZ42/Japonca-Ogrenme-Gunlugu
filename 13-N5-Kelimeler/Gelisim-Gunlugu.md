@@ -171,3 +171,47 @@ Bu dosyada, hedefim olan 800-1000 kelimelik JLPT N5 kelime haznesini her gün 30
 *Hedef: 1000 Kelime | Mevcut: 120 Kelime*
 
 ---
+
+
+
+
+
+## 📅 5. Gün: Renkler, Yönler ve Çevresel Nesneler (30 Kelime)
+
+| Japonca (Hiragana/Katakana) | Okunuşu (Romaji) | Türkçe Anlamı |
+| :--- | :--- | :--- |
+| しろい | shiroi | beyaz |
+| くろい | kuroi | siyah |
+| あかい | akai | kırmızı |
+| あおい | aoi | mavi |
+| きいろい | kiiroi | sarı |
+| みどり | midori | yeşil |
+| うえ | ue | üst, yukarı |
+| した | shita | alt, aşağı |
+| まえ | mae | ön, önce |
+| うしろ | ushiro | arka, arkası |
+| みぎ | migi | sağ |
+| ひだり | hidari | sol |
+| なか | naka | iç, içinde |
+| そと | soto | dış, dışarısı |
+| となり | tonari | yan, komşu |
+| あめ | ame | yağmur |
+| ゆき | yuki | kar |
+| かぜ | kaze | rüzgar |
+| そら | sora | gökyüzü |
+| てんき | tenki | hava durumu |
+| はな | hana | çiçek |
+| き | ki | ağaç |
+| は | ha | yaprak |
+| いえ | ie | ev |
+| にわ | niwa | bahçe |
+| まど | mado | pencere |
+| ドア | doa | kapı |
+| つくえ | tsukue | masa |
+| いす | isu | sandalye |
+| でんき | denki | elektrik / ışık |
+
+
+*Master Excel İndeksi | Hedef: 1000 Kelime | Mevcut: 150 Kelime*
+
+---
