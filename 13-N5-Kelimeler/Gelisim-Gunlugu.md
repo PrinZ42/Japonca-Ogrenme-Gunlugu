@@ -215,3 +215,46 @@ Bu dosyada, hedefim olan 800-1000 kelimelik JLPT N5 kelime haznesini her gün 30
 *Master Excel İndeksi | Hedef: 1000 Kelime | Mevcut: 150 Kelime*
 
 ---
+
+
+
+
+
+## 📅 6. Gün: Master Excel İndeksi Benzersiz Fiiller ve Sıfatlar (30 Kelime)
+
+| Japonca (Hiragana/Katakana) | Okunuşu (Romaji) | Türkçe Anlamı |
+| :--- | :--- | :--- |
+| あう | au | buluşmak / görüşmek |
+| あそぶ | asobu | oynamak / eğlenmek |
+| あらう | arau | yıkamak |
+| ある | aru | var olmak (cansızlar için) |
+| いる | iru | var olmak (canlılar için) |
+| うたう | utau | şarkı söylemek |
+| およぐ | oyogu | yüzmek |
+| かう | kau | satın almak |
+| かえす | kaesu | geri vermek / iade etmek |
+| かかる | kakaru | sürmek (zaman/para) |
+| かぶる | kaburu | giymek (şapka vb.) |
+| かりる | kariru | ödünç almak |
+| きる | kiru | giymek (üst kıyafet) |
+| しめる | shimeru | kapatmak (kapı/pencere) |
+| しる | shiru | bilmek / tanımak |
+| すう | suu | sigara içmek / içine çekmek |
+| すむ | sumu | ikamet etmek / yaşamak |
+| すわる | suwaru | oturmak |
+| たつ | tatsu | ayağa kalkmak |
+| だす | dasu | dışarı çıkarmak / teslim etmek |
+| つかう | tsukau | kullanmak |
+| つく | tsuku | varmak / ulaşmak |
+| つくる | tsukuru | yapmak / üretmek |
+| つとめる | tsutomeru | -de çalışmak (memuriyet vb.) |
+| とぶ | tobu | uçmak / zıplamak |
+| とまる | tomaru | durmak / konaklamak |
+| とる | toru | almak / fotoğraf çekmek |
+| 脱ぐ (ぬぐ) | nugu | kıyafet çıkarmak |
+| のぼる | noboru | tırmanmak (dağa vb.) |
+| のる | noru | binmek (taşıta) |
+
+*Master Excel İndeksi | Hedef: 1000 Kelime | Mevcut: 180 Kelime*
+
+---
