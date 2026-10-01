@@ -220,7 +220,7 @@ Bu dosyada, hedefim olan 800-1000 kelimelik JLPT N5 kelime haznesini her gün 30
 
 
 
-## 📅 6. Gün: Master Excel İndeksi Benzersiz Fiiller ve Sıfatlar (30 Kelime)
+## 📅 6. Gün: Fiiller ve Sıfatlar (30 Kelime)
 
 | Japonca (Hiragana/Katakana) | Okunuşu (Romaji) | Türkçe Anlamı |
 | :--- | :--- | :--- |
