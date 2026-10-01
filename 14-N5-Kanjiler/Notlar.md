@@ -90,3 +90,22 @@ Japoncada Kanjilerin iki farklı temel okunuş biçimi vardır. Bu mantığı ç
 *Master Excel İndeksi | Hedef: 100 Kanji | Mevcut: 25 Kanji*
 
 ---
+
+
+
+
+
+## 📅 6. Gün: Master İndeks Yön ve Konum Kanjileri (5 Kanji)
+
+| Kanji | Onyomi Okunuşu | Kunyomi Okunuşu | Türkçe Anlamı | Örnek Cümle / Kullanım |
+| :---: | :--- | :--- | :--- | :--- |
+| **上** | jou | ue / a(garu) | Üst / Yukarı | 上着 (uwagi) - Ceket / Üst kıyafet |
+| **中** | chuu | naka | İç / İçinde | 中国 (Chuugoku) - Çin (Merkez ülke) |
+| **左** | sa | hidari | Sol | 左側 (hidarigawa) - Sol taraf |
+| **右** | uu / yu | migi | Sağ | 右折 (usetsu) - Sağ dönüş |
+| **北** | hoku | kita | Kuzey | 北海道 (Hokkaido) - Kuzey denizi yolu adası |
+
+
+*Master Excel İndeksi | Hedef: 100 Kanji | Mevcut: 30 Kanji*
+
+---
