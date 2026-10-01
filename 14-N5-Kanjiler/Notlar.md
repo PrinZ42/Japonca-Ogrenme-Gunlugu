@@ -15,7 +15,7 @@ Japoncada Kanjilerin iki farklı temel okunuş biçimi vardır. Bu mantığı ç
 
 ---
 
-## 📅 1. Gün: Temel Sayı Kanjileri (1 - 5)
+## 📅 1. Gün: Temel Sayı Kanjileri (1 - 5 & Katlar)
 
 | Kanji | Onyomi Okunuşu | Kunyomi Okunuşu | Türkçe Anlamı | Örnek Cümle / Kullanım |
 | :---: | :--- | :--- | :--- | :--- |
@@ -43,7 +43,7 @@ Japoncada Kanjilerin iki farklı temel okunuş biçimi vardır. Bu mantığı ç
 
 ---
 
-## 📅 3. Gün: Büyük Sayılar och Kitap Kanjileri
+## 📅 3. Gün: Büyük Sayılar (11 - 15 & Katlar)
 
 | Kanji | Onyomi Okunuşu | Kunyomi Okunuşu | Türkçe Anlamı | Örnek Cümle / Kullanım |
 | :---: | :--- | :--- | :--- | :--- |
@@ -58,7 +58,7 @@ Japoncada Kanjilerin iki farklı temel okunuş biçimi vardır. Bu mantığı ç
 
 ---
 
-## 📅 4. Gün: Temel Zaman och Doğa Kanjileri
+## 📅 4. Gün: Temel Zaman (16 - 20 & Katlar)
 
 | Kanji | Onyomi Okunuşu | Kunyomi Okunuşu | Türkçe Anlamı | Örnek Cümle / Kullanım |
 | :---: | :--- | :--- | :--- | :--- |
@@ -76,8 +76,7 @@ Japoncada Kanjilerin iki farklı temel okunuş biçimi vardır. Bu mantığı ç
 
 
 
-## 📅 5. Gün: Yönler, Doğa ve Temel İnsan Kanjileri (5 Kanji)
-
+## 📅 5. Gün: Yönler, Doğa ve Temel İnsan Kanjileri (21 - 25 & Katlar)
 | Kanji | Onyomi Okunuşu | Kunyomi Okunuşu | Türkçe Anlamı | Örnek Cümle / Kullanım |
 | :---: | :--- | :--- | :--- | :--- |
 | **下** | ka / ge | shita / shita(gu) | Alt / Aşağı | 地下鉄 (chikatetsu) - Metro (Yer altı treni) |
@@ -95,7 +94,7 @@ Japoncada Kanjilerin iki farklı temel okunuş biçimi vardır. Bu mantığı ç
 
 
 
-## 📅 6. Gün: Master İndeks Yön ve Konum Kanjileri (5 Kanji)
+## 📅 6. Gün: Master İndeks Yön ve Konum Kanjileri (26 - 30 & Katlar)
 
 | Kanji | Onyomi Okunuşu | Kunyomi Okunuşu | Türkçe Anlamı | Örnek Cümle / Kullanım |
 | :---: | :--- | :--- | :--- | :--- |
