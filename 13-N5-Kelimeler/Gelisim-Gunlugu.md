@@ -258,3 +258,45 @@ Bu dosyada, hedefim olan 800-1000 kelimelik JLPT N5 kelime haznesini her gün 30
 *Master Excel İndeksi | Hedef: 1000 Kelime | Mevcut: 180 Kelime*
 
 ---
+
+
+
+
+## 📅 7. Gün: Kıyafetler, Vücut Azaları ve Ev Eşyaları (30 Kelime)
+
+| Japonca (Hiragana/Katakana) | Okunuşu (Romaji) | Türkçe Anlamı |
+| :--- | :--- | :--- |
+| かみ | kami | saç |
+| は | ha | diş |
+| ふく | fuku | kıyafet |
+| シャツ | shatsu | gömlek |
+| ズボン | zubon | pantolon |
+| くつ | kutsu | ayakkabı |
+| くつした | kutsushita | çorap |
+| コート | kooto | kaban, palto |
+| ちゃいろ | chairo | kahverengi |
+| はれ | hare | güneşli, açık hava |
+| くもり | kumori | bulutlu |
+| かわ | kawa | nehir |
+| ちかく | chikaku | yakın |
+| あいだ | aida | ara, arası |
+| みなみ | minami | güney |
+| ひгаし | higashi | doğu |
+| にし | nishi | batı |
+| おりる | oriru | inmek (araçtan) |
+| はしる | hashiru | koşmak |
+| きる | kiru | kesmek |
+| はく | haku | giymek (alt beden/ayakkabı) |
+| はいる | hairu | girmek |
+| でる | deru | çıkmak |
+| おわる | owaru | bitmek |
+| はじまる | hajimaru | başlamak |
+| ベッド | beddo | yatak |
+| れいぞうこ | reizouko | buzdolabı |
+| せんたくき | sentakuki | çamaşır makinesi |
+| エアコン | eakon | klima |
+| どうぞ | douzo | buyrun |
+
+*Master Excel İndeksi | Hedef: 1000 Kelime | Mevcut Kelime Skoru: 210 / 1000*
+
+---
