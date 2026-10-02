@@ -15,7 +15,7 @@ Japoncada Kanjilerin iki farklı temel okunuş biçimi vardır. Bu mantığı ç
 
 ---
 
-## 📅 1. Gün: Temel Sayı Kanjileri (1 - 5 & Katlar)
+## 📅 1. Gün: Temel Sayı Kanjileri (1 - 5 Katlar)
 
 | Kanji | Onyomi Okunuşu | Kunyomi Okunuşu | Türkçe Anlamı | Örnek Cümle / Kullanım |
 | :---: | :--- | :--- | :--- | :--- |
@@ -29,7 +29,7 @@ Japoncada Kanjilerin iki farklı temel okunuş biçimi vardır. Bu mantığı ç
 
 ---
 
-## 📅 2. Gün: Üst Sayı Kanjileri (6 - 10 & Katlar)
+## 📅 2. Gün: Üst Sayı Kanjileri (6 - 10 Katlar)
 
 | Kanji | Onyomi Okunuşu | Kunyomi Okunuşu | Türkçe Anlamı | Örnek Cümle / Kullanım |
 | :---: | :--- | :--- | :--- | :--- |
@@ -43,7 +43,7 @@ Japoncada Kanjilerin iki farklı temel okunuş biçimi vardır. Bu mantığı ç
 
 ---
 
-## 📅 3. Gün: Büyük Sayılar (11 - 15 & Katlar)
+## 📅 3. Gün: Büyük Sayılar (11 - 15 Katlar)
 
 | Kanji | Onyomi Okunuşu | Kunyomi Okunuşu | Türkçe Anlamı | Örnek Cümle / Kullanım |
 | :---: | :--- | :--- | :--- | :--- |
@@ -58,7 +58,7 @@ Japoncada Kanjilerin iki farklı temel okunuş biçimi vardır. Bu mantığı ç
 
 ---
 
-## 📅 4. Gün: Temel Zaman (16 - 20 & Katlar)
+## 📅 4. Gün: Temel Zaman (16 - 20 Katlar)
 
 | Kanji | Onyomi Okunuşu | Kunyomi Okunuşu | Türkçe Anlamı | Örnek Cümle / Kullanım |
 | :---: | :--- | :--- | :--- | :--- |
@@ -76,7 +76,7 @@ Japoncada Kanjilerin iki farklı temel okunuş biçimi vardır. Bu mantığı ç
 
 
 
-## 📅 5. Gün: Yönler, Doğa ve Temel İnsan Kanjileri (21 - 25 & Katlar)
+## 📅 5. Gün: Yönler, Doğa ve Temel İnsan Kanjileri (21 - 25 Katlar)
 | Kanji | Onyomi Okunuşu | Kunyomi Okunuşu | Türkçe Anlamı | Örnek Cümle / Kullanım |
 | :---: | :--- | :--- | :--- | :--- |
 | **下** | ka / ge | shita / shita(gu) | Alt / Aşağı | 地下鉄 (chikatetsu) - Metro (Yer altı treni) |
@@ -94,7 +94,7 @@ Japoncada Kanjilerin iki farklı temel okunuş biçimi vardır. Bu mantığı ç
 
 
 
-## 📅 6. Gün: Master İndeks Yön ve Konum Kanjileri (26 - 30 & Katlar)
+## 📅 6. Gün: Yön ve Konum Kanjileri (26 - 30 Katlar)
 
 | Kanji | Onyomi Okunuşu | Kunyomi Okunuşu | Türkçe Anlamı | Örnek Cümle / Kullanım |
 | :---: | :--- | :--- | :--- | :--- |
@@ -108,3 +108,18 @@ Japoncada Kanjilerin iki farklı temel okunuş biçimi vardır. Bu mantığı ç
 *Master Excel İndeksi | Hedef: 100 Kanji | Mevcut: 30 Kanji*
 
 ---
+
+
+
+# 📅 7. Gün:Giyim, Vücut ve Yön Kanjileri (31 - 35 Katlar)
+
+| Kanji | Onyomi Okunuşu | Kunyomi Okunuşu | Türkçe Anlamı | Örnek Cümle / Kullanım |
+| :---: | :--- | :--- | :--- | :--- |
+| **手** | shu | te | El | 上手 (jouzu) - Usta, becerikli (Elin yukarıda olması) |
+| **足** | soku | ashi | Ayak / Bacak | 遠足 (ensoku) - Okul gezisi, yürüyüş |
+| **服** | fuku | - | Kıyafet / Giysi | 洋服 (youfuku) - Batı tarzı kıyafet |
+| **南** | nan | minami | Güney | 南口 (minamiguchi) - Güney çıkışı / kapısı |
+| **東** | tou | higashi | Doğu | 東京 (Toukyou) - Tokyo (Doğudaki başkent) |
+
+---
+*Master Excel İndeksi | Hedef: 100 Kanji | Mevcut Kanji Skoru: 35 / 100*
